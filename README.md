@@ -49,10 +49,13 @@ This project uses a sophisticated hybrid approach to provide the most accurate a
 ## 🚀 Setup & Run
 
 ### 1. Clone the repository
-git clone [https://github.com/Arcius07/resume-analyzer.git](https://github.com/Arcius07/resume-analyzer.git)
+```bash
+git clone https://github.com/Arcius07/resume-analyzer.git
 cd resume-analyzer
+```
 
 ### 2. Create and activate a virtual environment
+```bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -60,31 +63,29 @@ venv\Scripts\activate
 # macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Streamlit app
-
+```bash
 streamlit run app.py
+```
 
-🔑 Configuration
+## 🔑 Configuration
 This app requires a Google Gemini API key to function.
 
-Get your free API key from Google AI Studio.
+Get your free API key from [Google AI Studio](https://aistudio.google.com/).
 
 Run the Streamlit app.
 
 Paste your API key into the input box in the sidebar. The app is now ready to use!
 
-👨‍💻 Author
-Sarthak Thakur
+## 👨‍💻 Author
+Sarthak Thakur  
 
-LinkedIn: https://www.linkedin.com/in/sarthak-thakur-2b9788360/
-
-GitHub: https://github.com/Arcius07
-
-🪶 License
-
-This project is licensed under the MIT License.
+LinkedIn: [https://www.linkedin.com/in/sarthak-thakur-2b9788360/](https://www.linkedin.com/in/sarthak-thakur-2b9788360/)  
+GitHub: [https://github.com/Arcius07](https://github.com/Arcius07)
