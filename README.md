@@ -49,7 +49,6 @@ This project uses a sophisticated hybrid approach to provide the most accurate a
 ## 🚀 Setup & Run
 
 ### 1. Clone the repository
-```bash
 git clone [https://github.com/Arcius07/resume-analyzer.git](https://github.com/Arcius07/resume-analyzer.git)
 cd resume-analyzer
 
@@ -87,4 +86,5 @@ LinkedIn: https://www.linkedin.com/in/sarthak-thakur-2b9788360/
 GitHub: https://github.com/Arcius07
 
 🪶 License
+
 This project is licensed under the MIT License.
