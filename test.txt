@@ -1,0 +1,41 @@
+Job Title: Data Analyst
+
+Company: TechSolutions Inc.
+
+Location: New York, NY (Hybrid)
+
+About Us: TechSolutions Inc. is a fast-growing technology company dedicated to providing innovative solutions for data management. We are looking for a motivated Data Analyst to join our dynamic team and help us make sense of complex data.
+
+Position Summary: We are seeking a Data Analyst to support our product and marketing teams with insightful data analysis. The ideal candidate will have a knack for turning raw data into actionable insights. You will be responsible for building dashboards, running reports, and analyzing trends to support our business decisions.
+
+Key Responsibilities:
+
+Analyze complex datasets using SQL and Python to identify trends and patterns.
+
+Develop and maintain dashboards and reports using visualization tools like Tableau or Power BI.
+
+Present findings and recommendations to stakeholders in a clear and concise manner.
+
+Collaborate with engineering and product teams to collect new data.
+
+Perform ad-hoc analysis to answer specific business questions.
+
+Ensure data accuracy and integrity in all reports.
+
+Qualifications:
+
+Bachelor's degree in Statistics, Economics, Computer Science, or a related field.
+
+1-2 years of experience in a data analysis role.
+
+Strong proficiency in SQL.
+
+Experience with Python (Pandas, NumPy) for data manipulation.
+
+Hands-on experience with a BI tool such as Tableau or Power BI.
+
+Excellent communication and presentation skills.
+
+Strong analytical and problem-solving abilities.
+
+

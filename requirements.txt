@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+numpy
+sentence-transformers
+google-generativeai
